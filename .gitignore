@@ -1,3 +1,6 @@
+# Visual studio code
+.vscode/
+
 # C++
 build/
 
