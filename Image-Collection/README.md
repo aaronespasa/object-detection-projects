@@ -1,4 +1,9 @@
 # Capturar las imágenes para el proyecto
+
+|                      Webcam software                      |           Imágenes creadas en las carpetas            |
+   | :----------------------------------------------------------: | :----------------------------------------------------------: |
+   | <img src="https://github.com/aaronespasa/object-detection-projects/blob/main/Readme-Resources/webcam.png" style="zoom: 50%;" /> | <img src="https://github.com/aaronespasa/object-detection-projects/blob/main/Readme-Resources/images-folder.png" style="zoom: 50%;" /> |
+
 ## Preparación y requisitos
 
 ### Environment de anaconda
