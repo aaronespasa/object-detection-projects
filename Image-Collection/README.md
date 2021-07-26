@@ -1,10 +1,5 @@
 # Capturar las imágenes para el proyecto
 ## Preparación y requisitos
-### Clona el proyecto
-
-`$ git clone git@github.com:aaronespasa/object-detection-projects.git`
-
-Ahora accede al proyecto con el comando `$ cd object-detection-projects`
 
 ### Environment de anaconda
 Como buena práctica, vamos a utilizar un environment con Anaconda.
@@ -15,7 +10,9 @@ Para crear un environment con el nombre `cv` utilizamos el siguiente comando:
 
 `$ conda create --name cv`
 
-Activa el environment `cv`: `$ conda activate cv`
+Activa el environment `cv`:
+
+`$ conda activate cv`
 
 Ahora instala las librerías necesarias (se encuentran en el archivo `object-detection-projects/Image-Collection/requirements.txt`):
 
