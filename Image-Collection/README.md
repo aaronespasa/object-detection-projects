@@ -60,6 +60,4 @@ Ahora construye el proyecto: `$ cmake ../ && make`
 
 Ya puedes salir de la carpeta build `$ cd ..`
 
-Ya está todo listo para ejecutar el archivo de python! 🎉
-
-`$ python3 main.py`
+Ya está todo listo para ejecutar el notebook de python! 🎉
