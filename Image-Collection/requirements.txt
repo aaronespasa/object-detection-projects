@@ -1,0 +1,6 @@
+# packages in environment at /Users/aaron/miniforge3/envs/cv:
+#
+# Name                    Version                   Build  Channel
+libopencv                 4.5.1            py38hb421fe0_1    conda-forge
+opencv                    4.5.1            py38h150bfb4_1    conda-forge
+py-opencv                 4.5.1            py38hab544c7_1    conda-forge
