@@ -6,3 +6,6 @@ build/
 
 # IMAGES
 images/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
